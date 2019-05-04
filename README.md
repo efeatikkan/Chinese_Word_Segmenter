@@ -6,7 +6,7 @@ In addition to the base model described in the paper, a Conditional Random Field
 
 
 ## Datasets
-Academia Sinica, City University of Hong Kong, Peking University and Microsoft Research corpuses (avaliable at 
+Academia Sinica, City University of Hong Kong, Peking University and Microsoft Research corpuses (available at 
 http://sighan.cs.uchicago.edu/bakeoff2005/ ) are used for creating token vocabularies and training the model. 
 
 ## Pretrained Model
