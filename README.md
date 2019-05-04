@@ -16,7 +16,7 @@ The pretrained model and token vocabularies to make predictions can be accesed f
 After downloading pretrained model, or training the model from scratch, new predictions can be made using
 predict.py with the inputs:
   - input_text, chinese txt file without blanks
-  - output_text, BIES predictions txt
+  - output_text, BIES predictions txt that will be created
   - resources_folder, folder that includes the tensorflow trained model and unigram/ bigram token vocabularies
 
 ```
